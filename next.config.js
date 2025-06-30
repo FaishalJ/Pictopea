@@ -8,7 +8,7 @@ const nextConfig = {
       buildDependencies: {
         config: [__filename],
       },
-      cacheDirectory: '.next/cache/webpack',
+      cacheDirectory: require('path').resolve(__dirname, '.next/cache/webpack'),
       type: 'filesystem',
       compression: 'gzip',
       maxAge: 1000 * 60 * 60 * 24 * 30, // 30 days
