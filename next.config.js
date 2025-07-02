@@ -27,7 +27,10 @@ const nextConfig = {
   experimental: {
     // Enable efficient caching
     webpackBuildWorker: true,
-  }
+  },
+  allowedDevOrigins: [
+    'https://b01a0909-d077-4961-9add-f344c26bde96-00-116hk9dblgqq2.riker.replit.dev',
+  ],
 }
 
 module.exports = nextConfig
