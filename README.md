@@ -24,7 +24,7 @@ To make your next App run smoothly in production make sure to deploy your projec
 You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
 
 ## Youtube
-https://youtu.be/Ahwoks_dawU?t=4736
+https://youtu.be/Ahwoks_dawU?t=4800
 ## Repo:
 https://github.com/JavaScript-Mastery-Pro/imaginify
 ## Cloudinary
